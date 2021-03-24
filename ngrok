@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ngrok http -region=eu -hostname=play.appg.dev 3000
